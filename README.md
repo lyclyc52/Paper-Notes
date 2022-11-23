@@ -8,11 +8,9 @@ I are making some notes of some interesting papers I read. Most of them will be 
 
 ## Diffusion Model
 
-[./notes/Magic3D.md]: ./notes/Magic3D.md
+Magic 3D
 
-
-
-
+[Magic 3D]:./notes/Magic3D.md
 
 
 
