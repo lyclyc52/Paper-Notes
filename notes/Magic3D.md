@@ -1,0 +1,1 @@
+# Magic3D: High-Resolution Text-to-3D Content Creation
